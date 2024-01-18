@@ -375,7 +375,7 @@ color: var(--WHITE, #FFF);
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
+    gap: 48px 24px;
 
 }
 
@@ -398,6 +398,7 @@ color: var(--NAVY-BLUE, #2E2F42);
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    border-top: none;
     margin-bottom: 8px;
 }
 
